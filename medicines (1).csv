@@ -1,0 +1,521 @@
+name_en,name_ar,strength,form,price_egp
+Paracetamol,باراسيتامول,500 mg,Tab,20.0
+Ibuprofen,ايبوبروفين,400 mg,Tab,35.0
+Aspirin Protect,اسبرين بروتكت,100 mg,Tab,40.0
+Augmentin,اوجمنتين,1 g,Tab,195.0
+Augmentin,اوجمنتين,625 mg,Tab,160.0
+Azithromycin,ازيثرومايسين,500 mg,Tab,90.0
+Metronidazole,ميترونيدازول,500 mg,Tab,26.0
+Omeprazole,اوميبرازول,20 mg,Cap,30.0
+Esomeprazole,ايزوميبرازول,40 mg,Tab,210.0
+Panadol Extra,بنادول اكسترا,500 mg,Tab,22.0
+Concor (Bisoprolol),بيسوبرولول,5 mg,Tab,70.0
+Losartan,لوسارتان,50 mg,Tab,65.0
+Amlodipine,أملوديبين,5 mg,Tab,45.0
+Atorvastatin,اتورفاستاتين,20 mg,Tab,165.0
+Insulatard,انسولاتارد,100 IU/ml,Vial 10ml,95.0
+Metformin,جلوكوفاج,1000 mg,Tab,85.0
+Paracetamol,باراسيتامول,2%,Vial,394.0
+Ibuprofen,ايبوبروفين,1 g,Syrup,288.0
+Amoxicillin,أموكسيسيلين,600 mg,Cap,25.0
+Clarithromycin,كلاريثروميسين,500 mg,Vial,395.0
+Ciprofloxacin,سيبروفلوكساسين,2%,Sachets,174.0
+Cefixime,سيفيكسيم,20 mg,Syrup,294.0
+Ceftriaxone,سيفترياكسون,100 mg,Syrup,112.0
+Doxycycline,دوكسيسيكلين,250 mg,Shampoo,284.0
+Levofloxacin,ليفوفلوكساسين,400 mg,Inhaler,391.0
+Azithromycin,ازيثرومايسين,150 mg,Drops,221.0
+Ranitidine,رانيتيدين,150 mg,Cream,254.0
+Lansoprazole,لانسوبرازول,250 mg,Oint,221.0
+Pantoprazole,بانتوبرازول,2%,Inhaler,282.0
+Domperidone,دومبيريدون,10 mg,Gel,38.0
+Loperamide,لوبراميد,10 mg,Tab,256.0
+Cetirizine,سيتريزين,10 mg,Gel,14.0
+Loratadine,لوراتادين,20 mg,Susp,71.0
+Montelukast,مونتولوكاست,400 mg,Susp,281.0
+Salbutamol,سالبوتامول,10 mg,Tab,148.0
+Budesonide,بوديزونيد,150 mg,Sachets,153.0
+Formoterol,فورموتيرول,400 mg,Shampoo,296.0
+Mixtard,ميكستارد,250 mg,Drops,169.0
+Glimepiride,جليمبرايد,10 mg,Inhaler,309.0
+Sitagliptin,سيتاجليبتين,200 mg,Gel,308.0
+Vildagliptin,فيلداجليبتين,600 mg,Inhaler,81.0
+Dapagliflozin,داباجليفلوزين,10 mg,Tab,251.0
+Acarbose,اكاربوز,600 mg,Amp,452.0
+Levothyroxine,ليفوثيروكسين,400 mg,Drops,144.0
+Rosuvastatin,روزوفاستاتين,150 mg,Shampoo,260.0
+Ezetimibe,ايزيتيميب,75 mg,Gel,300.0
+Clopidogrel,كلوبيدوجريل,2%,Oint,82.0
+Warfarin,وارفارين,20 mg,Amp,772.0
+Furosemide,فوروسيميد,20 mg,Syrup,112.0
+Spironolactone,سبيرونولاكتون,600 mg,Syrup,68.0
+Tamsulosin,تامسولوسين,400 mg,Tab,286.0
+Finasteride,فيناسترايد,1 g,Sachets,173.0
+Rifaximin,ريفاميكسين,5 mg,Tab,94.0
+Probiotic,بروبيوتك,40 mg,Cap,171.0
+Vitamin D3,فيتامين د3,600 mg,Oint,218.0
+Calcium+D3,كالسيوم+د3,1%,Cap,289.0
+Ferrous Fumarate,حديد فومارات,150 mg,Cream,135.0
+Folic Acid,حمض الفوليك,500 mg,Cream,147.0
+B-Complex,بي كومبلكس,300 mg,Sachets,163.0
+Bepanthen,بيبانثين,100 mg,Shampoo,261.0
+Fucidin,فيوسيدين,20 mg,Nebules,414.0
+Dermovate,درموفيت,40 mg,Cream,239.0
+Mupirocin,موبيروسين,150 mg,Amp,280.0
+Clotrimazole,كلوتريمازول,1%,Inhaler,334.0
+Ketoconazole,كيتوكونازول,75 mg,Shampoo,307.0
+Tobrex,توبركس,2%,Vial,505.0
+Maxitrol,ماكسيترول,5 mg,Gel,98.0
+Artificial Tears,دموع صناعية,500 mg,Gel,172.0
+Ofloxacin,اوفلوكساسين,10 mg,Syrup,120.0
+Zithrokan,زيثروكان,1 g,Vial,463.0
+Augmentin ES,اوجمنتين إي إس,150 mg,Cream,66.0
+Congestal,كونجستال,2%,Tab,110.0
+Actifed,اكتيفيد,300 mg,Amp,517.0
+Gaviscon,جافيسكون,2%,Syrup,286.0
+ORS,محلول الجفاف,1%,Amp,208.0
+Ambroxol,امبروكسول,600 mg,Syrup,16.0
+Guaifenesin,جوايفينيزين,0.1%,Inhaler,328.0
+Miconazole,ميكونازول,100 mg,Drops,62.0
+Chlorhexidine,كلورهيكسيدين,2%,Oint,19.0
+Zinc Sulfate,كبريتات الزنك,75 mg,Cap,253.0
+Magnesium,ماغنيسيوم,1 g,Gel,116.0
+Allopurinol,الوبورينول,200 mg,Sachets,25.0
+Colchicine,كولشيسين,0.1%,Cream,125.0
+Prednisolone,بريدنيزولون,75 mg,Nebules,662.0
+Dexamethasone,ديكساميثازون,200 mg,Vial,459.0
+Hydrocortisone,هيدروكورتيزون,100 mg,Susp,287.0
+Diclofenac,ديكلوفيناك,600 mg,Drops,194.0
+Cyanocobalamin,فيتامين ب12,10 mg,Cream,309.0
+Neurobion,نيوروبيون,40 mg,Vial,324.0
+Primolut-N,بريمولوت إن,5 mg,Cap,29.0
+Drotaverine,دروتافيرين,1 g,Inhaler,276.0
+Tranexamic Acid,ترانيكساميك أسيد,5 mg,Syrup,287.0
+Iron Sucrose,ايرون سكروز,500 mg,Amp,423.0
+Insulin Syringes,سرنجات أنسولين,200 mg,Drops,139.0
+Glucometer Strips,شرائط سكر,150 mg,Oint,227.0
+Alcohol Swabs,مسحات كحولية,1 g,Oint,114.0
+Elastic Bandage,رباط ضاغط,1%,Inhaler,226.0
+Thermometer,ترمومتر,2%,Sachets,304.0
+Pulse Oximeter,جهاز أكسجين نبضي,250 mg,Sachets,162.0
+BP Monitor,جهاز ضغط,150 mg,Vial,546.0
+Paracetamol,باراسيتامول,20 mg,Sachets,279.0
+Ibuprofen,ايبوبروفين,250 mg,Oint,298.0
+Amoxicillin,أموكسيسيلين,250 mg,Syrup,312.0
+Clarithromycin,كلاريثروميسين,5 mg,Amp,404.0
+Ciprofloxacin,سيبروفلوكساسين,150 mg,Gel,132.0
+Cefixime,سيفيكسيم,300 mg,Shampoo,89.0
+Ceftriaxone,سيفترياكسون,500 mg,Vial,496.0
+Doxycycline,دوكسيسيكلين,0.1%,Sachets,268.0
+Levofloxacin,ليفوفلوكساسين,250 mg,Drops,136.0
+Azithromycin,ازيثرومايسين,1%,Drops,269.0
+Ranitidine,رانيتيدين,400 mg,Inhaler,380.0
+Lansoprazole,لانسوبرازول,200 mg,Inhaler,343.0
+Pantoprazole,بانتوبرازول,40 mg,Cap,275.0
+Domperidone,دومبيريدون,20 mg,Susp,99.0
+Loperamide,لوبراميد,150 mg,Drops,49.0
+Cetirizine,سيتريزين,1 g,Inhaler,452.0
+Loratadine,لوراتادين,250 mg,Syrup,148.0
+Montelukast,مونتولوكاست,1 g,Vial,512.0
+Salbutamol,سالبوتامول,2%,Oint,85.0
+Budesonide,بوديزونيد,40 mg,Cap,143.0
+Formoterol,فورموتيرول,500 mg,Susp,121.0
+Mixtard,ميكستارد,10 mg,Nebules,467.0
+Glimepiride,جليمبرايد,600 mg,Cap,169.0
+Sitagliptin,سيتاجليبتين,20 mg,Oint,116.0
+Vildagliptin,فيلداجليبتين,5 mg,Tab,30.0
+Dapagliflozin,داباجليفلوزين,100 mg,Inhaler,509.0
+Acarbose,اكاربوز,40 mg,Gel,144.0
+Levothyroxine,ليفوثيروكسين,1 g,Amp,520.0
+Rosuvastatin,روزوفاستاتين,40 mg,Susp,108.0
+Ezetimibe,ايزيتيميب,400 mg,Nebules,614.0
+Clopidogrel,كلوبيدوجريل,400 mg,Susp,206.0
+Warfarin,وارفارين,150 mg,Amp,334.0
+Furosemide,فوروسيميد,2%,Sachets,76.0
+Spironolactone,سبيرونولاكتون,1%,Shampoo,238.0
+Tamsulosin,تامسولوسين,150 mg,Syrup,132.0
+Finasteride,فيناسترايد,40 mg,Sachets,213.0
+Rifaximin,ريفاميكسين,500 mg,Oint,217.0
+Probiotic,بروبيوتك,20 mg,Amp,659.0
+Vitamin D3,فيتامين د3,500 mg,Inhaler,358.0
+Calcium+D3,كالسيوم+د3,300 mg,Amp,299.0
+Ferrous Fumarate,حديد فومارات,200 mg,Vial,348.0
+Folic Acid,حمض الفوليك,300 mg,Amp,202.0
+B-Complex,بي كومبلكس,1%,Syrup,113.0
+Bepanthen,بيبانثين,300 mg,Drops,87.0
+Fucidin,فيوسيدين,100 mg,Nebules,264.0
+Dermovate,درموفيت,0.1%,Tab,56.0
+Mupirocin,موبيروسين,1 g,Nebules,457.0
+Clotrimazole,كلوتريمازول,1 g,Oint,205.0
+Ketoconazole,كيتوكونازول,2%,Drops,300.0
+Tobrex,توبركس,100 mg,Sachets,27.0
+Maxitrol,ماكسيترول,1 g,Cream,48.0
+Artificial Tears,دموع صناعية,100 mg,Drops,162.0
+Ofloxacin,اوفلوكساسين,10 mg,Amp,552.0
+Zithrokan,زيثروكان,2%,Cap,34.0
+Augmentin ES,اوجمنتين إي إس,10 mg,Inhaler,525.0
+Congestal,كونجستال,5 mg,Sachets,264.0
+Actifed,اكتيفيد,10 mg,Susp,16.0
+Gaviscon,جافيسكون,200 mg,Inhaler,720.0
+ORS,محلول الجفاف,250 mg,Nebules,305.0
+Ambroxol,امبروكسول,150 mg,Tab,212.0
+Guaifenesin,جوايفينيزين,200 mg,Oint,248.0
+Miconazole,ميكونازول,250 mg,Oint,112.0
+Chlorhexidine,كلورهيكسيدين,0.1%,Tab,149.0
+Zinc Sulfate,كبريتات الزنك,75 mg,Gel,66.0
+Magnesium,ماغنيسيوم,200 mg,Syrup,255.0
+Allopurinol,الوبورينول,500 mg,Drops,165.0
+Colchicine,كولشيسين,1 g,Gel,181.0
+Prednisolone,بريدنيزولون,75 mg,Vial,293.0
+Dexamethasone,ديكساميثازون,75 mg,Oint,248.0
+Hydrocortisone,هيدروكورتيزون,200 mg,Inhaler,711.0
+Diclofenac,ديكلوفيناك,5 mg,Shampoo,247.0
+Cyanocobalamin,فيتامين ب12,100 mg,Nebules,348.0
+Neurobion,نيوروبيون,0.1%,Drops,74.0
+Primolut-N,بريمولوت إن,250 mg,Sachets,48.0
+Drotaverine,دروتافيرين,5 mg,Oint,31.0
+Tranexamic Acid,ترانيكساميك أسيد,250 mg,Nebules,691.0
+Iron Sucrose,ايرون سكروز,400 mg,Nebules,586.0
+Insulin Syringes,سرنجات أنسولين,40 mg,Sachets,55.0
+Glucometer Strips,شرائط سكر,200 mg,Nebules,656.0
+Alcohol Swabs,مسحات كحولية,100 mg,Amp,524.0
+Elastic Bandage,رباط ضاغط,40 mg,Sachets,146.0
+Thermometer,ترمومتر,500 mg,Gel,268.0
+Pulse Oximeter,جهاز أكسجين نبضي,20 mg,Gel,78.0
+BP Monitor,جهاز ضغط,500 mg,Nebules,646.0
+Paracetamol,باراسيتامول,500 mg,Oint,174.0
+Ibuprofen,ايبوبروفين,1%,Inhaler,477.0
+Amoxicillin,أموكسيسيلين,200 mg,Nebules,541.0
+Clarithromycin,كلاريثروميسين,2%,Amp,383.0
+Ciprofloxacin,سيبروفلوكساسين,40 mg,Inhaler,591.0
+Cefixime,سيفيكسيم,100 mg,Susp,74.0
+Ceftriaxone,سيفترياكسون,500 mg,Tab,144.0
+Doxycycline,دوكسيسيكلين,100 mg,Drops,197.0
+Levofloxacin,ليفوفلوكساسين,40 mg,Vial,348.0
+Azithromycin,ازيثرومايسين,2%,Sachets,19.0
+Ranitidine,رانيتيدين,75 mg,Oint,289.0
+Lansoprazole,لانسوبرازول,5 mg,Shampoo,315.0
+Pantoprazole,بانتوبرازول,5 mg,Sachets,100.0
+Domperidone,دومبيريدون,10 mg,Gel,174.0
+Loperamide,لوبراميد,500 mg,Nebules,480.0
+Cetirizine,سيتريزين,0.1%,Amp,173.0
+Loratadine,لوراتادين,75 mg,Syrup,244.0
+Montelukast,مونتولوكاست,2%,Syrup,239.0
+Salbutamol,سالبوتامول,75 mg,Tab,100.0
+Budesonide,بوديزونيد,20 mg,Vial,306.0
+Formoterol,فورموتيرول,600 mg,Susp,115.0
+Mixtard,ميكستارد,250 mg,Shampoo,21.0
+Glimepiride,جليمبرايد,0.1%,Inhaler,371.0
+Sitagliptin,سيتاجليبتين,500 mg,Vial,370.0
+Vildagliptin,فيلداجليبتين,0.1%,Amp,185.0
+Dapagliflozin,داباجليفلوزين,200 mg,Susp,267.0
+Acarbose,اكاربوز,500 mg,Drops,64.0
+Levothyroxine,ليفوثيروكسين,600 mg,Cream,309.0
+Rosuvastatin,روزوفاستاتين,600 mg,Inhaler,415.0
+Ezetimibe,ايزيتيميب,2%,Vial,287.0
+Clopidogrel,كلوبيدوجريل,600 mg,Shampoo,94.0
+Warfarin,وارفارين,2%,Susp,121.0
+Furosemide,فوروسيميد,200 mg,Tab,195.0
+Spironolactone,سبيرونولاكتون,200 mg,Shampoo,32.0
+Tamsulosin,تامسولوسين,400 mg,Inhaler,335.0
+Finasteride,فيناسترايد,400 mg,Cream,101.0
+Rifaximin,ريفاميكسين,300 mg,Nebules,656.0
+Probiotic,بروبيوتك,75 mg,Amp,432.0
+Vitamin D3,فيتامين د3,0.1%,Vial,435.0
+Calcium+D3,كالسيوم+د3,2%,Cream,250.0
+Ferrous Fumarate,حديد فومارات,100 mg,Tab,57.0
+Folic Acid,حمض الفوليك,150 mg,Gel,97.0
+B-Complex,بي كومبلكس,1 g,Sachets,308.0
+Bepanthen,بيبانثين,20 mg,Oint,29.0
+Fucidin,فيوسيدين,250 mg,Nebules,293.0
+Dermovate,درموفيت,5 mg,Nebules,509.0
+Mupirocin,موبيروسين,5 mg,Inhaler,421.0
+Clotrimazole,كلوتريمازول,0.1%,Nebules,534.0
+Ketoconazole,كيتوكونازول,40 mg,Susp,98.0
+Tobrex,توبركس,40 mg,Drops,249.0
+Maxitrol,ماكسيترول,1 g,Oint,43.0
+Artificial Tears,دموع صناعية,2%,Shampoo,181.0
+Ofloxacin,اوفلوكساسين,250 mg,Inhaler,73.0
+Zithrokan,زيثروكان,1 g,Sachets,63.0
+Augmentin ES,اوجمنتين إي إس,150 mg,Inhaler,410.0
+Congestal,كونجستال,2%,Susp,56.0
+Actifed,اكتيفيد,10 mg,Syrup,264.0
+Gaviscon,جافيسكون,1%,Inhaler,538.0
+ORS,محلول الجفاف,0.1%,Nebules,406.0
+Ambroxol,امبروكسول,500 mg,Sachets,226.0
+Guaifenesin,جوايفينيزين,75 mg,Sachets,134.0
+Miconazole,ميكونازول,400 mg,Sachets,280.0
+Chlorhexidine,كلورهيكسيدين,150 mg,Vial,476.0
+Zinc Sulfate,كبريتات الزنك,1%,Drops,314.0
+Magnesium,ماغنيسيوم,1 g,Cream,101.0
+Allopurinol,الوبورينول,5 mg,Amp,460.0
+Colchicine,كولشيسين,5 mg,Sachets,147.0
+Prednisolone,بريدنيزولون,600 mg,Cap,254.0
+Dexamethasone,ديكساميثازون,600 mg,Amp,658.0
+Hydrocortisone,هيدروكورتيزون,75 mg,Cream,94.0
+Diclofenac,ديكلوفيناك,40 mg,Oint,184.0
+Cyanocobalamin,فيتامين ب12,75 mg,Susp,41.0
+Neurobion,نيوروبيون,1%,Drops,74.0
+Primolut-N,بريمولوت إن,10 mg,Drops,273.0
+Drotaverine,دروتافيرين,10 mg,Shampoo,166.0
+Tranexamic Acid,ترانيكساميك أسيد,500 mg,Tab,138.0
+Iron Sucrose,ايرون سكروز,75 mg,Amp,473.0
+Insulin Syringes,سرنجات أنسولين,40 mg,Nebules,269.0
+Glucometer Strips,شرائط سكر,10 mg,Nebules,549.0
+Alcohol Swabs,مسحات كحولية,600 mg,Drops,271.0
+Elastic Bandage,رباط ضاغط,1 g,Gel,284.0
+Thermometer,ترمومتر,100 mg,Tab,143.0
+Pulse Oximeter,جهاز أكسجين نبضي,10 mg,Tab,310.0
+BP Monitor,جهاز ضغط,500 mg,Cream,79.0
+Paracetamol,باراسيتامول,0.1%,Tab,173.0
+Ibuprofen,ايبوبروفين,150 mg,Gel,316.0
+Amoxicillin,أموكسيسيلين,10 mg,Tab,114.0
+Clarithromycin,كلاريثروميسين,1 g,Cream,143.0
+Ciprofloxacin,سيبروفلوكساسين,400 mg,Cream,16.0
+Cefixime,سيفيكسيم,10 mg,Vial,234.0
+Ceftriaxone,سيفترياكسون,600 mg,Oint,294.0
+Doxycycline,دوكسيسيكلين,2%,Cream,207.0
+Levofloxacin,ليفوفلوكساسين,400 mg,Gel,91.0
+Azithromycin,ازيثرومايسين,1 g,Tab,303.0
+Ranitidine,رانيتيدين,300 mg,Amp,265.0
+Lansoprazole,لانسوبرازول,300 mg,Cap,38.0
+Pantoprazole,بانتوبرازول,400 mg,Susp,131.0
+Domperidone,دومبيريدون,10 mg,Cream,158.0
+Loperamide,لوبراميد,1%,Tab,46.0
+Cetirizine,سيتريزين,40 mg,Cream,243.0
+Loratadine,لوراتادين,300 mg,Cap,181.0
+Montelukast,مونتولوكاست,1%,Vial,325.0
+Salbutamol,سالبوتامول,2%,Vial,385.0
+Budesonide,بوديزونيد,75 mg,Cap,24.0
+Formoterol,فورموتيرول,600 mg,Inhaler,242.0
+Mixtard,ميكستارد,400 mg,Vial,538.0
+Glimepiride,جليمبرايد,600 mg,Nebules,265.0
+Sitagliptin,سيتاجليبتين,600 mg,Syrup,197.0
+Vildagliptin,فيلداجليبتين,250 mg,Cream,168.0
+Dapagliflozin,داباجليفلوزين,150 mg,Cap,259.0
+Acarbose,اكاربوز,1 g,Oint,293.0
+Levothyroxine,ليفوثيروكسين,40 mg,Vial,522.0
+Rosuvastatin,روزوفاستاتين,400 mg,Cream,139.0
+Ezetimibe,ايزيتيميب,500 mg,Drops,151.0
+Clopidogrel,كلوبيدوجريل,20 mg,Drops,97.0
+Warfarin,وارفارين,400 mg,Gel,217.0
+Furosemide,فوروسيميد,5 mg,Susp,148.0
+Spironolactone,سبيرونولاكتون,75 mg,Susp,186.0
+Tamsulosin,تامسولوسين,2%,Sachets,195.0
+Finasteride,فيناسترايد,1 g,Amp,446.0
+Rifaximin,ريفاميكسين,2%,Vial,513.0
+Probiotic,بروبيوتك,300 mg,Susp,31.0
+Vitamin D3,فيتامين د3,600 mg,Gel,303.0
+Calcium+D3,كالسيوم+د3,40 mg,Inhaler,256.0
+Ferrous Fumarate,حديد فومارات,5 mg,Cream,258.0
+Folic Acid,حمض الفوليك,100 mg,Susp,100.0
+B-Complex,بي كومبلكس,400 mg,Oint,122.0
+Bepanthen,بيبانثين,200 mg,Cap,276.0
+Fucidin,فيوسيدين,40 mg,Inhaler,208.0
+Dermovate,درموفيت,250 mg,Cream,85.0
+Mupirocin,موبيروسين,10 mg,Drops,23.0
+Clotrimazole,كلوتريمازول,400 mg,Inhaler,560.0
+Ketoconazole,كيتوكونازول,150 mg,Sachets,142.0
+Tobrex,توبركس,5 mg,Cap,227.0
+Maxitrol,ماكسيترول,10 mg,Inhaler,283.0
+Artificial Tears,دموع صناعية,5 mg,Syrup,255.0
+Ofloxacin,اوفلوكساسين,40 mg,Tab,40.0
+Zithrokan,زيثروكان,300 mg,Nebules,607.0
+Augmentin ES,اوجمنتين إي إس,100 mg,Tab,306.0
+Congestal,كونجستال,150 mg,Inhaler,729.0
+Actifed,اكتيفيد,40 mg,Shampoo,98.0
+Gaviscon,جافيسكون,10 mg,Inhaler,211.0
+ORS,محلول الجفاف,75 mg,Vial,564.0
+Ambroxol,امبروكسول,300 mg,Tab,178.0
+Guaifenesin,جوايفينيزين,500 mg,Syrup,52.0
+Miconazole,ميكونازول,300 mg,Oint,269.0
+Chlorhexidine,كلورهيكسيدين,100 mg,Vial,694.0
+Zinc Sulfate,كبريتات الزنك,500 mg,Tab,180.0
+Magnesium,ماغنيسيوم,150 mg,Susp,24.0
+Allopurinol,الوبورينول,75 mg,Oint,15.0
+Colchicine,كولشيسين,250 mg,Gel,58.0
+Prednisolone,بريدنيزولون,5 mg,Oint,117.0
+Dexamethasone,ديكساميثازون,5 mg,Nebules,705.0
+Hydrocortisone,هيدروكورتيزون,75 mg,Tab,257.0
+Diclofenac,ديكلوفيناك,250 mg,Syrup,85.0
+Cyanocobalamin,فيتامين ب12,40 mg,Sachets,46.0
+Neurobion,نيوروبيون,2%,Tab,184.0
+Primolut-N,بريمولوت إن,500 mg,Nebules,320.0
+Drotaverine,دروتافيرين,600 mg,Nebules,594.0
+Tranexamic Acid,ترانيكساميك أسيد,400 mg,Cream,120.0
+Iron Sucrose,ايرون سكروز,500 mg,Amp,189.0
+Insulin Syringes,سرنجات أنسولين,40 mg,Amp,512.0
+Glucometer Strips,شرائط سكر,200 mg,Oint,63.0
+Alcohol Swabs,مسحات كحولية,20 mg,Syrup,150.0
+Elastic Bandage,رباط ضاغط,1 g,Cap,41.0
+Thermometer,ترمومتر,400 mg,Shampoo,92.0
+Pulse Oximeter,جهاز أكسجين نبضي,2%,Tab,221.0
+BP Monitor,جهاز ضغط,300 mg,Sachets,105.0
+Paracetamol,باراسيتامول,250 mg,Sachets,93.0
+Ibuprofen,ايبوبروفين,10 mg,Inhaler,237.0
+Amoxicillin,أموكسيسيلين,20 mg,Oint,145.0
+Clarithromycin,كلاريثروميسين,100 mg,Oint,145.0
+Ciprofloxacin,سيبروفلوكساسين,1%,Drops,291.0
+Cefixime,سيفيكسيم,300 mg,Cream,138.0
+Ceftriaxone,سيفترياكسون,2%,Cap,30.0
+Doxycycline,دوكسيسيكلين,2%,Nebules,378.0
+Levofloxacin,ليفوفلوكساسين,1%,Vial,355.0
+Azithromycin,ازيثرومايسين,100 mg,Susp,266.0
+Ranitidine,رانيتيدين,100 mg,Amp,213.0
+Lansoprazole,لانسوبرازول,150 mg,Drops,296.0
+Pantoprazole,بانتوبرازول,20 mg,Syrup,168.0
+Domperidone,دومبيريدون,100 mg,Cap,285.0
+Loperamide,لوبراميد,0.1%,Nebules,529.0
+Cetirizine,سيتريزين,150 mg,Cream,280.0
+Loratadine,لوراتادين,40 mg,Drops,173.0
+Montelukast,مونتولوكاست,75 mg,Inhaler,483.0
+Salbutamol,سالبوتامول,75 mg,Sachets,169.0
+Budesonide,بوديزونيد,40 mg,Vial,267.0
+Formoterol,فورموتيرول,300 mg,Drops,271.0
+Mixtard,ميكستارد,500 mg,Susp,206.0
+Glimepiride,جليمبرايد,2%,Inhaler,191.0
+Sitagliptin,سيتاجليبتين,5 mg,Cap,55.0
+Vildagliptin,فيلداجليبتين,5 mg,Syrup,89.0
+Dapagliflozin,داباجليفلوزين,5 mg,Cream,161.0
+Acarbose,اكاربوز,40 mg,Gel,114.0
+Levothyroxine,ليفوثيروكسين,400 mg,Vial,533.0
+Rosuvastatin,روزوفاستاتين,20 mg,Tab,263.0
+Ezetimibe,ايزيتيميب,0.1%,Nebules,476.0
+Clopidogrel,كلوبيدوجريل,20 mg,Amp,521.0
+Warfarin,وارفارين,20 mg,Drops,255.0
+Furosemide,فوروسيميد,5 mg,Tab,166.0
+Spironolactone,سبيرونولاكتون,500 mg,Susp,286.0
+Tamsulosin,تامسولوسين,100 mg,Cap,226.0
+Finasteride,فيناسترايد,40 mg,Vial,463.0
+Rifaximin,ريفاميكسين,400 mg,Sachets,152.0
+Probiotic,بروبيوتك,20 mg,Nebules,391.0
+Vitamin D3,فيتامين د3,400 mg,Cream,124.0
+Calcium+D3,كالسيوم+د3,2%,Nebules,562.0
+Ferrous Fumarate,حديد فومارات,250 mg,Oint,179.0
+Folic Acid,حمض الفوليك,400 mg,Syrup,247.0
+B-Complex,بي كومبلكس,400 mg,Tab,255.0
+Bepanthen,بيبانثين,10 mg,Oint,100.0
+Fucidin,فيوسيدين,1 g,Oint,156.0
+Dermovate,درموفيت,5 mg,Susp,247.0
+Mupirocin,موبيروسين,100 mg,Syrup,306.0
+Clotrimazole,كلوتريمازول,20 mg,Amp,631.0
+Ketoconazole,كيتوكونازول,250 mg,Susp,270.0
+Tobrex,توبركس,5 mg,Amp,375.0
+Maxitrol,ماكسيترول,75 mg,Drops,204.0
+Artificial Tears,دموع صناعية,1 g,Sachets,22.0
+Ofloxacin,اوفلوكساسين,40 mg,Nebules,262.0
+Zithrokan,زيثروكان,500 mg,Oint,194.0
+Augmentin ES,اوجمنتين إي إس,400 mg,Cap,318.0
+Congestal,كونجستال,600 mg,Gel,251.0
+Actifed,اكتيفيد,1 g,Nebules,416.0
+Gaviscon,جافيسكون,40 mg,Vial,387.0
+ORS,محلول الجفاف,1 g,Cap,173.0
+Ambroxol,امبروكسول,200 mg,Tab,315.0
+Guaifenesin,جوايفينيزين,250 mg,Amp,216.0
+Miconazole,ميكونازول,0.1%,Inhaler,500.0
+Chlorhexidine,كلورهيكسيدين,1%,Amp,358.0
+Zinc Sulfate,كبريتات الزنك,150 mg,Syrup,37.0
+Magnesium,ماغنيسيوم,150 mg,Cap,200.0
+Allopurinol,الوبورينول,40 mg,Sachets,249.0
+Colchicine,كولشيسين,150 mg,Gel,214.0
+Prednisolone,بريدنيزولون,600 mg,Amp,518.0
+Dexamethasone,ديكساميثازون,600 mg,Drops,259.0
+Hydrocortisone,هيدروكورتيزون,200 mg,Oint,192.0
+Diclofenac,ديكلوفيناك,1 g,Vial,402.0
+Cyanocobalamin,فيتامين ب12,5 mg,Cap,30.0
+Neurobion,نيوروبيون,1 g,Cream,270.0
+Primolut-N,بريمولوت إن,75 mg,Syrup,250.0
+Drotaverine,دروتافيرين,0.1%,Cream,19.0
+Tranexamic Acid,ترانيكساميك أسيد,40 mg,Amp,396.0
+Iron Sucrose,ايرون سكروز,300 mg,Cream,126.0
+Insulin Syringes,سرنجات أنسولين,500 mg,Inhaler,471.0
+Glucometer Strips,شرائط سكر,10 mg,Gel,275.0
+Alcohol Swabs,مسحات كحولية,500 mg,Amp,692.0
+Elastic Bandage,رباط ضاغط,5 mg,Inhaler,341.0
+Thermometer,ترمومتر,1 g,Tab,288.0
+Pulse Oximeter,جهاز أكسجين نبضي,100 mg,Vial,606.0
+BP Monitor,جهاز ضغط,600 mg,Drops,241.0
+Paracetamol,باراسيتامول,500 mg,Vial,344.0
+Ibuprofen,ايبوبروفين,150 mg,Vial,200.0
+Amoxicillin,أموكسيسيلين,5 mg,Cream,132.0
+Clarithromycin,كلاريثروميسين,400 mg,Drops,319.0
+Ciprofloxacin,سيبروفلوكساسين,2%,Vial,667.0
+Cefixime,سيفيكسيم,1 g,Cap,277.0
+Ceftriaxone,سيفترياكسون,500 mg,Shampoo,214.0
+Doxycycline,دوكسيسيكلين,100 mg,Amp,325.0
+Levofloxacin,ليفوفلوكساسين,200 mg,Vial,242.0
+Azithromycin,ازيثرومايسين,0.1%,Gel,93.0
+Ranitidine,رانيتيدين,75 mg,Susp,166.0
+Lansoprazole,لانسوبرازول,75 mg,Vial,520.0
+Pantoprazole,بانتوبرازول,100 mg,Amp,558.0
+Domperidone,دومبيريدون,1%,Shampoo,44.0
+Loperamide,لوبراميد,1 g,Susp,133.0
+Cetirizine,سيتريزين,75 mg,Vial,469.0
+Loratadine,لوراتادين,2%,Inhaler,605.0
+Montelukast,مونتولوكاست,40 mg,Nebules,665.0
+Salbutamol,سالبوتامول,40 mg,Drops,40.0
+Budesonide,بوديزونيد,100 mg,Oint,240.0
+Formoterol,فورموتيرول,75 mg,Drops,130.0
+Mixtard,ميكستارد,500 mg,Cap,50.0
+Glimepiride,جليمبرايد,500 mg,Nebules,121.0
+Sitagliptin,سيتاجليبتين,100 mg,Cream,256.0
+Vildagliptin,فيلداجليبتين,40 mg,Tab,209.0
+Dapagliflozin,داباجليفلوزين,600 mg,Vial,282.0
+Acarbose,اكاربوز,1 g,Shampoo,32.0
+Levothyroxine,ليفوثيروكسين,150 mg,Cream,307.0
+Rosuvastatin,روزوفاستاتين,400 mg,Nebules,141.0
+Ezetimibe,ايزيتيميب,300 mg,Cap,240.0
+Clopidogrel,كلوبيدوجريل,300 mg,Susp,222.0
+Warfarin,وارفارين,20 mg,Vial,616.0
+Furosemide,فوروسيميد,75 mg,Tab,34.0
+Spironolactone,سبيرونولاكتون,40 mg,Gel,56.0
+Tamsulosin,تامسولوسين,10 mg,Sachets,168.0
+Finasteride,فيناسترايد,500 mg,Oint,94.0
+Rifaximin,ريفاميكسين,400 mg,Shampoo,255.0
+Probiotic,بروبيوتك,20 mg,Nebules,348.0
+Vitamin D3,فيتامين د3,2%,Shampoo,286.0
+Calcium+D3,كالسيوم+د3,400 mg,Vial,337.0
+Ferrous Fumarate,حديد فومارات,250 mg,Syrup,196.0
+Folic Acid,حمض الفوليك,500 mg,Cap,147.0
+B-Complex,بي كومبلكس,1 g,Oint,287.0
+Bepanthen,بيبانثين,100 mg,Oint,31.0
+Fucidin,فيوسيدين,1%,Cream,227.0
+Dermovate,درموفيت,150 mg,Syrup,163.0
+Mupirocin,موبيروسين,5 mg,Oint,250.0
+Clotrimazole,كلوتريمازول,20 mg,Nebules,521.0
+Ketoconazole,كيتوكونازول,200 mg,Sachets,300.0
+Tobrex,توبركس,75 mg,Sachets,300.0
+Maxitrol,ماكسيترول,0.1%,Susp,306.0
+Artificial Tears,دموع صناعية,200 mg,Syrup,88.0
+Ofloxacin,اوفلوكساسين,0.1%,Shampoo,136.0
+Zithrokan,زيثروكان,600 mg,Gel,256.0
+Augmentin ES,اوجمنتين إي إس,250 mg,Gel,53.0
+Congestal,كونجستال,5 mg,Nebules,414.0
+Actifed,اكتيفيد,500 mg,Drops,284.0
+Gaviscon,جافيسكون,1 g,Amp,655.0
+ORS,محلول الجفاف,40 mg,Oint,290.0
+Ambroxol,امبروكسول,400 mg,Shampoo,297.0
+Guaifenesin,جوايفينيزين,400 mg,Sachets,193.0
+Miconazole,ميكونازول,75 mg,Susp,210.0
+Chlorhexidine,كلورهيكسيدين,1%,Shampoo,151.0
+Zinc Sulfate,كبريتات الزنك,75 mg,Susp,315.0
+Magnesium,ماغنيسيوم,2%,Susp,66.0
+Allopurinol,الوبورينول,10 mg,Cream,293.0
+Colchicine,كولشيسين,2%,Sachets,249.0
+Prednisolone,بريدنيزولون,20 mg,Susp,136.0
+Dexamethasone,ديكساميثازون,300 mg,Amp,447.0
+Hydrocortisone,هيدروكورتيزون,20 mg,Sachets,107.0
+Diclofenac,ديكلوفيناك,40 mg,Inhaler,220.0
+Cyanocobalamin,فيتامين ب12,2%,Vial,389.0
+Neurobion,نيوروبيون,300 mg,Drops,193.0
+Primolut-N,بريمولوت إن,2%,Susp,292.0
+Drotaverine,دروتافيرين,250 mg,Amp,598.0
+Tranexamic Acid,ترانيكساميك أسيد,40 mg,Drops,118.0
+Iron Sucrose,ايرون سكروز,20 mg,Tab,270.0
+Insulin Syringes,سرنجات أنسولين,250 mg,Syrup,235.0
+Glucometer Strips,شرائط سكر,300 mg,Sachets,78.0
+Alcohol Swabs,مسحات كحولية,250 mg,Cream,43.0
+Elastic Bandage,رباط ضاغط,1%,Tab,192.0
+Thermometer,ترمومتر,10 mg,Sachets,167.0
+Pulse Oximeter,جهاز أكسجين نبضي,40 mg,Drops,275.0
+BP Monitor,جهاز ضغط,20 mg,Shampoo,102.0
